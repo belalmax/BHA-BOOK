@@ -1,6 +1,6 @@
 const books = [
   {
-    name: "اردو ادب",
+    name: "امين انحو",
     image: "images/book1.png",
     oldPrice: 800,
     newPrice: 500
